@@ -7,5 +7,6 @@ void Time::Nhap()
 void Time::Xuat()
 {
     cout << "Gio hien tai la: ";
+    cout << "da thay doi ";
     cout << iGio << ":" << iPhut << ":" << iGiay;
 }

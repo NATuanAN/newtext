@@ -10,3 +10,7 @@ void Time::Xuat()
     cout << "Da sua loi lan coui";
     cout << iGio << ":" << iPhut << ":" << iGiay;
 }
+void Time::TinhCongThemMotGiay()
+{
+    cout << "Da tham ham Tinhcongthem";
+}
